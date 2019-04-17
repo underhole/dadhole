@@ -1,0 +1,73 @@
+       .:k,'. ..  ',.. .                
+      .xWM;''.  ',k0c'.. ..,....        
+      ;WMW,..    ,XMl'''. cWk'''   ...  
+   ...,oc,'''    .kk''''  Kx,'''. .x,'..
+ l0x,dddxl'''    cWX,''' .WO''''' xk'''.
+cWMMOMMMX;''    .XMMl''. ;MW;,c'.'MW:''.
+kMMMWNNO,'.     .OMMk''. xMMOX:'.NMMx'' 
+oMMXd'.          ;xXd''  OWMMx' cXKd,'. 
+;WMMWl       ..    ...   ..;,.   .''.   
+.KMMx:'. '''''.         .  ..   ...    .
+.OMMMMN,''''''''.       ''.'''',ddl;,'''
+.OMMMMWW0xl;;l'''...'   .'''c,'';XMMk'''
+ :WMMMMMMMMMWk;l'''''.   '''lWKkNMMO,''.
+ .:xXMMMMMMMMWWl'''''..''.'''xWMMxc,'''.
+   .'cxXMMMMMMW,'''''''''',dlc::cl,''   
+      .,ckNMMNd''''''''',oNMMWk,''''.   
+        .';cc,'''''''';xNMMMMk''''''    
+           .,lOdc,';dKMMMMMMMMo''''   . 
+             ,0MMWNMMMMMMMMXNk,'''.  .  
+              kMMMMMMMo;:cll,'''''      
+             .dMMMMMMMN,'''''''''.      
+             .oMMMMMMMMk'''''''''.      
+             .cMMMMMMMMMc''''''''.      
+             .cMMMMMMMMMX,'''''''.      
+             .cMMMMMMMMMMd'','''''      
+             .lMMMMMMMMMMX,'d,''''      
+             .oMMMMMMMMMMMl'dx''''      
+             'dMMMMMMMMMMM0'cN''''   .  
+             --- D@D H0LE ---
+       Culture Alternative for WWW.
+
+ CRIADO EM: 16/04/2019
+ ON FREENODE #underhole
+==============================================================================
+
+  Olá! Seja muito bem vindo ao DadHole. O primeiro buraco hole na rede
+  Underhole.
+  Aqui você encontra todos os HOW-TOS/Documentação que você necessita
+  para criar o seu próprio Hole.
+  Você encontrará também uma indexação de holes abertos, assim você pode
+  Sincronizar e explorar melhor a rede underhole ;)
+
+hole-list.txt
+=================
+  Neste arquivo você irá encontrar algumas listas de servidores públicos na
+  underhole.
+  Se caso você se interessar em por o seu hole públicamente para outros
+  guerrilheiros acessar entre em contato atráves da rede Freenode no canal
+  #underhole
+
+sobre.txt
+=================
+  Este arquivo contem toda a ideia sobre a Subcultura Underhole.
+  Leia! É importante antes de criar o seu próprio hole. Há algumas coisa que
+  não toleramos.
+
+documentacao/
+=================
+  Toda documentação necessária para fazer o seu próprio hole você encontrará em
+  documentacao/
+  Também alguns documentos a parte como manifesto e sobre você irá encontrar neste
+  diretório.
+
+howtos/
+=================
+  Aqui você encontra pequenos HOW-TOS que te ensinaram a fazer várias coisas
+  úteis de coisas variáveis
+
+scripts/
+=================
+  Scripts/hacks para fazer algumas coisas legais.
+
+

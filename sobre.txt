@@ -1,0 +1,113 @@
+  _____       _              
+ / ____|     | |             
+| (___   ___ | |__  _ __ ___ 
+ \___ \ / _ \| '_ \| '__/ _ \
+ ____) | (_) | |_) | | |  __/
+|_____/ \___/|_.__/|_|  \___|
+                             
+  A underhole nasceu como um alternativa á WWW. É uma rede para hackers e
+  pessoas que queiram compartilhar conteúdo e gostam do velho e bom Texto Plano.
+  Abaixo algumas vantagens de utilizar a Underhole como sua rede padrão.
+
+
+Mais privacidade.
+=================
+  A privacidade desde o final dos anos 90 está afetado! Hoje as velhas e novas
+  empresas só pensam em dinheiro e nada além disso.
+  A sua privacidade de navegar e pesquisar os mais diversos assuntos de seu
+  interesse está altamente sendo espionado pelo MARKETING.
+  
+  Na underhole funcionamos diferente, você terá mais privacidade quando você
+  está surfando! Você sincroniza os seus Holes para a sua máquina e pode surfar
+  no Hole quando quiser.
+
+
+Sem Complexidade.
+=================
+  Não apoiamos o uso de HTML ou qualquer outro tipo de linguagem. Apoiamos a 
+  todos os guerrilheiros a usar somente arquivo em plain-text ou texto plano.
+  Texto plano é um modelo de arquivo selvagem, que roda em qualquer lugar!
+  Não depende nem de um editor de texto. :)
+
+
+Sem Indexação. A não ser que você queira.
+=========================================
+  Não temos a pretenção de criar um programa ou algo do genêro que faça indexações
+  como o google e outras plataformas o fazem.
+  Você é livre para ter o seu Hole disponível publicamente ou privadamente.
+  Se você decidir deixar o seu Hole publicamente e queira que outros guerrilheiros
+  o encontrem, você pode enviar os dados do seu hole para nós.
+  
+  Ele ficará armazenado em um arquivo de texto simples, assim outros podem te achar.
+  Caso não deseje, nós não vamos atrás se novos Holes.
+  Está maneira que foi criado a rede Underhole é totalmente invisível aos olhos de 
+  todos indexadores e pessoas.
+  Como o google e outros vão indexar algo que não existe? O hole não é um site, é 
+  um servidor que está aberto para sincroniza.
+  Então, sem olhos espiões.
+
+
+Não necessita de Dominio pago.
+==============================
+  Nós não encorajamos você comprar um domínio e alimentar a indústria que quer que você
+  consuma!
+  Não vamos lhe falar que um Dominio pago te dará mais visão ou que é mais profissional.
+  Você não precisa disso aqui.
+  Ao ínves disso apoiamos você utilizar o IP do seu próprio servidor ou usar um DNS grátuito
+  como o Duck DNS.
+  Caso você resolva hospedar o seu hole caseiramente e tem um IP dinâmico, você precisará de
+  um DNS para ficar algo fixo.
+  Caso seja um IP estático que não muda, você poderá usar o próprio IP cru.
+
+  Assim nós vamos contra a indústria comedora do seu dinheiro. Você é livre para investir em
+  outros lugares.
+
+
+Não necessita de Browser.
+=========================
+  Não existe navegação em tempo real! Você surfa na sincronização. Este método te garante uma
+  maior privacidade.
+  Muitos browsers com código fonte fechado ou não, te rastreiam o tempo todo, a sua privacidade
+  é comprometida com isso.
+  Para sincronizar um Hole você só necessita de uma linha de comando ou um aplicativo rsync.
+  Assim você terá os seus holes favoritos em sua máquina, disponivel com ou sem acesso a internet.
+
+
+Baixo Consumo.
+==============
+  Apoiamos o texto plano 100%. Uma rede sem outras mídias é extremamente rápida para sincronia...
+  Nos anos 70 e 80 era muito utilizado esse método, pois os recursos eram altamente restritos a
+  conexões extremamente lentas.
+  Hoje em dia surfamos na internet com conexão parrudas, porém para manter um servidor de qualquer
+  coisa é inviável não é? Com a underhole é diferente, você simplesmente pode.
+
+Livre.
+======
+  Você é livre. Simples assim.
+
+
+Simplicidade.
+=============
+  Não é necessário praticamente nada para você sincronizar ou abrir o seu hole.
+  Apenas o Rsync Daemon.
+
+
+Apoio a alternativas.
+=====================
+  Apoiamos e indicamos alternativas a WWW, aplicativos que usam protocolos diferentes sempre são bem
+  vindos.
+
+
+Uma Cultura, de hacker para hacker.
+===================================
+  Você é livre para criar seus hacks e disponibilizar para outras pessoas.
+  Queremos que o faça, isso abastece cada vez mais a rede Underhole.
+
+
+Apoiamos o Compartilhamento.
+============================
+  Quando Tim Berners-Lee fez a sua criação WWW era para ser totalmente editável em tempo real pelo
+  navegador. Ou seja, você era livre para editar uma página.
+  A ideia era gloriosa, mas que não durou muito. Infezlimente o primeiro browser já barrou essa ideia.
+  Apoiamos que você crie um diretório público para envio em seu hole. Assim outras pessoas poderam
+  compartilhar algumas informações no seu hole.
